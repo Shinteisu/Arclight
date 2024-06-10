@@ -42,4 +42,3 @@ jobs:
       with:
         name: Arclight 
         path: ./build/libs/*.jar
-
